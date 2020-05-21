@@ -1,3 +1,9 @@
+Kod do materiałów:
+* [Quarkus, pierwsze kroki i wrażenia – jest miazga! 😊](https://bykowski.pl/quarkus-pierwsze-kroki-i-wrazenia-jest-miazga/)
+* [QUARKUS – FENOMENALNIE PRZYJAZNY FRAMEWORK, KTÓRY POKOCHASZ - WIDEO](https://youtu.be/r14ifzQJyYQ)
+
+
+
 # code-with-quarkus project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
